@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @madhu
 - 👀 I’m interested in Programming & Web Development
 - 🌱 I’m currently learning java 
-- 📫 How to reach me madhuvipparthi02@gmail.com
+- 📫 How to reach me madhuvipparthi02@gmail
