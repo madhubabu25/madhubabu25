@@ -1,81 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Madhu Babu</h1>
+<h1 align="center">Hi 👋, I'm Madhu Babu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=35C2F0&center=true&vCenter=true&width=435&lines=Community+Health+Worker+%26+CS+Student;AI+%7C+Web+%7C+Mobile+Developer;Tech+Explorer+%7C+Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=460&lines=Computer%20Science%20Student;AI%20%7C%20Web%20%7C%20Mobile%20Developer;Building%20Real-world%20Tech%20Solutions" alt="Typing SVG" />
 </p>
 
----
-
-### 👨‍💻 About Me
-I'm a **Community Health Worker** and a **Computer Science Student** at GIET College, Rajahmundry 🇮🇳. I bridge the gap between healthcare and technology by combining my field experience with strong software engineering skills.
-
-- 🔬 Working on **AI-based non-invasive blood analysis** using PPG technology.
-- 🌐 Developing web applications with **React.js**, **Node.js**, **MySQL**, and **PostgreSQL**.
-- 📱 Building Android apps to run **Ubuntu tools** with optional **root access**.
-- 🎯 Passionate about creating real-world impactful solutions through code.
 
 ---
 
-### 🚀 Projects
+### 🧑‍💻 About Me
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| **[StockPulse – Real-Time Market Insights Platform](https://github.com/madhubabu25/stock_website)** | A dynamic stock market platform displaying live market data, news, and admin panel features. Integrated Alpha Vantage and News API. | Node.js, Express.js, MySQL, JavaScript, HTML/CSS | 🔗 [GitHub](https://github.com/madhubabu25/stock_website) |
-| **[Interactive AI Virtual Assistant](https://github.com/madhubabu25/talking-parrot)** | Python-based assistant with voice, image analysis, BLIP-powered Q&A, weather updates, and Google Generative AI integration. | Python, OpenCV, ImageAI, BLIP, Speech Recognition | 🔗 [GitHub](https://github.com/madhubabu25/talking-parrot) |
-| **[FileZ – Android File Explorer](https://github.com/madhubabu25/Filez)** | Java-based lightweight Android file manager app with browsing, search, multi-select, and folder creation. | Java, Android Studio, RecyclerView, Material UI | 🔗 [GitHub](https://github.com/madhubabu25/Filez) |
-| **Object Detection using YOLO** | A real-time image and video object detection system (routes and vehicles) using the YOLO deep learning model. | Python, YOLO, OpenCV | _Private / On Request_ |
-| **Telegram Bot + Data Viz** | Built smart bots with NLP and visualized large datasets using Power BI as part of the AI internship. | Python, NLP, Power BI | _Internship Project_ |
+I'm a **Computer Science Student** at GIET College, Rajahmundry 🇮🇳 and  passionate about combining **technology and healthcare** for better living.
+
+- 💡 Innovator in AI + Healthcare
+- 🌐 Full-stack Web Developer
+- 📱 Android App Developer (Native)
+- 💬 Strong communicator, team player, and problem solver
 
 ---
 
-### 💻 Tech Stack
-**Languages**  
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java) 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
+### 🚀 Featured Projects
 
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+| 💼 Project | 📝 Description | 🧰 Tech Stack | 🔗 Link |
+|-----------|----------------|---------------|--------|
+| **StockPulse** | Live stock platform with REST APIs, admin dashboard, and market news. | Node.js, MySQL, JavaScript, HTML/CSS | [GitHub](https://github.com/madhubabu25/stock_website) |
+| **AI Virtual Assistant** | Voice/image-based assistant using BLIP, OpenCV & Google AI. | Python, ImageAI, OpenCV | [GitHub](https://github.com/madhubabu25/talking-parrot) |
+| **FileZ** | Java-based Android file manager with Material UI and file operations. | Java, Android Studio | [GitHub](https://github.com/madhubabu25/Filez) |
+| **YOLO Object Detection** | Real-time car/route detection from images & videos. | Python, OpenCV, YOLO | _Private_ |
+| **Power BI Dashboard + Telegram Bot** | NLP bots & visual dashboards created during AI internship. | Python, Power BI | _Intern Project_ |
 
-**Tools & IDEs**  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+---
+
+### 🧠 Skills Snapshot
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,nodejs,react,mysql,postgres,firebase,git,androidstudio,vscode" />
+</p>
 
 ---
 
 ### 💼 Internships & Experience
-- 🧠 **AI Intern** – AIMER Society: Developed AI tools like YOLO detection, Telegram Bot, and Power BI data visualization.
-- 💹 **Web Developer Intern** – Bluestock Fintech: Built a stock insights platform using REST APIs and live market data.
+
+| 🏢 Organization | 📋 Role | 📆 Duration | 🌟 Highlights |
+|----------------|---------|-------------|----------------|
+| **Bluestock Fintech** | Web Dev Intern | 2 months | Built real-time stock insight web app |
+| **AIMER Society** | AI Intern | 2 months | YOLO detection, Telegram Bot, Power BI |
+| **APSSDC** *(Govt of AP)* | **Android & Web Development Intern** | 4 weeks | Created mobile + web apps, learned end-to-end development tools |
 
 ---
 
-### 🏆 Achievements & Certifications
-- 🧪 IBM: Python for Data Science
-- 🔒 Google: Cyber Security Foundation & Network Security
-- 🧠 TCS iON: Career Edge – Young Professional
-- ☁️ Google: Cloud Computing Foundation
+### 📜 Certifications
+
+- 🧪 IBM – Python for Data Science  
+- 🔐 Google – Cyber Security & Network Security  
+- ☁️ Google – Cloud Computing Foundation  
+- 🧠 TCS iON – Career Edge Young Professional
 
 ---
 
-### 📫 Let's Connect
-- 🌐 [Portfolio](https://github.com/MadhuVipparthi)
-- 📧 Email: madhuvipparthi02@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/madhu-vipparthi-7b7bb5309/)
-- 🐦 [Twitter](https://twitter.com/madhuvipparthi)
 
----
+
+### 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhuVipparthi&show_icons=true&theme=radical" alt="Madhu's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MadhuVipparthi&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <a href="mailto:madhuvipparthi02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/madhu-vipparthi-7b7bb5309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/madhuvipparthi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-> _"Bridging Healthcare & Technology through Code."_ 💻💉  
+> 🧬 _"Bridging Healthcare & Technology through Code."_ 💻💉  
